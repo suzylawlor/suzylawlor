@@ -1,3 +1,3 @@
 # My GitHub Profile
 
-Welcome to my GitHub profile! Here you will find a collection of my projects, contributions, and collaborations with other developers.
+Welcome to my GitHub profile! Feel free to have a look and explore how I built my portfolio website. Enjoy!
